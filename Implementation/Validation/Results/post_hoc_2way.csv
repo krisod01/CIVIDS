@@ -1,0 +1,4 @@
+,Contrast,A,B,Paired,Parametric,T,dof,Tail,p-unc,p-corr,p-adjust,BF10,hedges
+0,Mode,Baseline,Collaborative_1,True,True,-8.472075430658633,29.0,two-sided,2.4619398230089773e-09,3.692909734513466e-09,fdr_bh,4.851e+06,-0.22891722223978275
+1,Mode,Baseline,Collaborative_2,True,True,-10.929051470810744,29.0,two-sided,8.471511058692368e-12,2.5414533176077105e-11,fdr_bh,1.042e+09,-0.25369653896878425
+2,Mode,Collaborative_1,Collaborative_2,True,True,-0.9286441354665095,29.0,two-sided,0.3607391071845051,0.3607391071845051,fdr_bh,0.288,-0.022034673833688175

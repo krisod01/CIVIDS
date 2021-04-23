@@ -1,0 +1,60 @@
+Model 1: 
+Validation accuracy: 0.9510802030563354 Validation loss: 1.192432165145874 
+Number of correctly detected intrusions: 20022 Total number of intrusions: 24013 Quota: 0.833798359222088 
+Number of predicted intrusions: 29422  Number of false positives: 13018 Number of true negatives: 233069 
+False positive rate: 0.0528999906537119 
+Number of correctly detected flooding attacks: 12692 Total number of flooding attacks: 12692 Quota: 1.0 
+Number of correctly detected spoofing attacks: 326 Total number of spoofing attacks: 326 Quota: 1.0 
+Number of correctly detected replay attacks: 0 Total number of replay attacks: 3507 Quota: 0.0 
+Number of correctly detected fuzzing attacks: 7004 Total number of fuzzing attacks: 7488 Quota: 0.9353632478632479 
+ 
+Model 2: 
+Validation accuracy: 0.9393903017044067 Validation loss: 3.6333682537078857 
+Number of correctly detected intrusions: 20744 Total number of intrusions: 25711 Quota: 0.8068142040371825 
+Number of predicted intrusions: 33910  Number of false positives: 17789 Number of true negatives: 254968 
+False positive rate: 0.06521922443786961 
+Number of correctly detected flooding attacks: 12880 Total number of flooding attacks: 12880 Quota: 1.0 
+Number of correctly detected spoofing attacks: 945 Total number of spoofing attacks: 945 Quota: 1.0 
+Number of correctly detected replay attacks: 0 Total number of replay attacks: 4357 Quota: 0.0 
+Number of correctly detected fuzzing attacks: 6919 Total number of fuzzing attacks: 7529 Quota: 0.9189799442156993 
+ 
+Model 3: 
+Validation accuracy: 0.8562064170837402 Validation loss: 8.922744750976562 
+Number of correctly detected intrusions: 19512 Total number of intrusions: 23437 Quota: 0.8325297606348936 
+Number of predicted intrusions: 54439  Number of false positives: 37928 Number of true negatives: 206327 
+False positive rate: 0.15528034226525558 
+Number of correctly detected flooding attacks: 12421 Total number of flooding attacks: 12421 Quota: 1.0 
+Number of correctly detected spoofing attacks: 332 Total number of spoofing attacks: 332 Quota: 1.0 
+Number of correctly detected replay attacks: 0 Total number of replay attacks: 3516 Quota: 0.0 
+Number of correctly detected fuzzing attacks: 6759 Total number of fuzzing attacks: 7168 Quota: 0.9429408482142857 
+ 
+Model 4: 
+Validation accuracy: 0.9641129970550537 Validation loss: 3.8414480686187744 
+Number of correctly detected intrusions: 21080 Total number of intrusions: 25716 Quota: 0.8197231295691398 
+Number of predicted intrusions: 26417  Number of false positives: 9676 Number of true negatives: 238868 
+False positive rate: 0.03893073258658427 
+Number of correctly detected flooding attacks: 12891 Total number of flooding attacks: 12891 Quota: 1.0 
+Number of correctly detected spoofing attacks: 961 Total number of spoofing attacks: 961 Quota: 1.0 
+Number of correctly detected replay attacks: 0 Total number of replay attacks: 4378 Quota: 0.0 
+Number of correctly detected fuzzing attacks: 7228 Total number of fuzzing attacks: 7486 Quota: 0.9655356665776116 
+ 
+Model 5: 
+Validation accuracy: 0.970965564250946 Validation loss: 5.526273250579834 
+Number of correctly detected intrusions: 54830 Total number of intrusions: 63558 Quota: 0.8626766103401617 
+Number of predicted intrusions: 63370  Number of false positives: 16780 Number of true negatives: 506324 
+False positive rate: 0.032077751269346054 
+Number of correctly detected flooding attacks: 31671 Total number of flooding attacks: 31671 Quota: 1.0 
+Number of correctly detected spoofing attacks: 6649 Total number of spoofing attacks: 6649 Quota: 1.0 
+Number of correctly detected replay attacks: 0 Total number of replay attacks: 8164 Quota: 0.0 
+Number of correctly detected fuzzing attacks: 16510 Total number of fuzzing attacks: 17074 Quota: 0.9669673187302331 
+ 
+Model 6: 
+Validation accuracy: 0.9612823724746704 Validation loss: 7.748820781707764 
+Number of correctly detected intrusions: 53299 Total number of intrusions: 66516 Quota: 0.801295928799086 
+Number of predicted intrusions: 66510  Number of false positives: 25563 Number of true negatives: 581380 
+False positive rate: 0.04211762883829289 
+Number of correctly detected flooding attacks: 31916 Total number of flooding attacks: 31916 Quota: 1.0 
+Number of correctly detected spoofing attacks: 7470 Total number of spoofing attacks: 7470 Quota: 1.0 
+Number of correctly detected replay attacks: 0 Total number of replay attacks: 12494 Quota: 0.0 
+Number of correctly detected fuzzing attacks: 13913 Total number of fuzzing attacks: 14636 Quota: 0.9506012571740913 
+ 

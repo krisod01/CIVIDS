@@ -1,0 +1,6 @@
+Average local time(seconds):0.03134830780146734
+Average consultation time(seconds):0.18166102649337673
+Total number of lines:817042 
+Total number of lines sent to the IDSM:115242 
+Total number of consultation messages:28188 
+Total simulation time(minutes):71.89214318990707 

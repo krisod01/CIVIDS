@@ -1,0 +1,1080 @@
+Simulation run 1, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9744504313070754,0.2723929200827523,0.9849388731810678,0.0,0.010962552011095701
+Recall,1.0,0.9429708222811671,0.8032891222102291,0.0,1.0
+F1-score,0.9870599087787628,0.4226859283039059,0.88488792805777,0.0,0.021687355262147007
+F1-score average,0.4632642240805171, , , , 
+Average local time(s),0.00924413881012882, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,207962 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 2, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.980502456283249,0.39467285382830625,0.9851286693391956,0.0,0.011375280640147372
+Recall,1.0,0.9400088417329797,0.8409626140712393,0.0,1.0
+F1-score,0.9901552539584618,0.5559317602457677,0.9073548387096774,0.0,0.022494678005077238
+F1-score average,0.49518730618379686, , , , 
+Average local time(s),0.02422968879251890, , , , 
+Average consultation time(s),0.12509782695955882, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,207962 , , , , 
+Consultation messages sent,31341 , , , , 
+ , , , , , 
+Simulation run 3, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.980502456283249,0.4067721991462971,0.9851261040774634,0.0,0.011376328485727774
+Recall,1.0,0.9394783377541999,0.8431622673600889,0.0,1.0
+F1-score,0.9901552539584618,0.5677303875078477,0.9086325467316313,0.0,0.022496726817327943
+F1-score average,0.4978029830030538, , , , 
+Average local time(s),0.02715964448692883, , , , 
+Average consultation time(s),0.17785932701193363, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,207962 , , , , 
+Consultation messages sent,31341 , , , , 
+ , , , , , 
+Simulation run 4, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.999989487074358,0.6058151715680012,0.9697265208510107,0.0,0.0
+Recall,1.0,0.9133139456502899,0.9770748939816466,0.0,0.0
+F1-score,0.9999947435095484,0.7284429459067137,0.9733868388760514,0.0,0.0
+F1-score average,0.5403649056584626, , , , 
+Average local time(s),0.01269283785650726, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,180334 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 5, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.999989487074358,0.7177270297105324,0.9694921289970627,0.0,0.0
+Recall,1.0,0.9049168961731795,0.9848033946396916,0.0,0.0
+F1-score,0.9999947435095484,0.8005247555116366,0.9770877824414754,0.0,0.0
+F1-score average,0.5555214562925321, , , , 
+Average local time(s),0.02245297089636788, , , , 
+Average consultation time(s),0.14894742371576017, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,180334 , , , , 
+Consultation messages sent,24471 , , , , 
+ , , , , , 
+Simulation run 6, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.999989487074358,0.7238042491653974,0.9695490748326973,0.0,0.0
+Recall,1.0,0.9061109720162548,0.9851510168269663,0.0,0.0
+F1-score,0.9999947435095484,0.8047620676678869,0.9772877803715573,0.0,0.0
+F1-score average,0.5564089183097984, , , , 
+Average local time(s),0.02322356693386549, , , , 
+Average consultation time(s),0.1941606768316235, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,180334 , , , , 
+Consultation messages sent,24471 , , , , 
+ , , , , , 
+Simulation run 7, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.1930757341576507,0.9838362745353196,0.0,0.6799724707501721
+Recall,1.0,0.9664456233421751,0.8758177149772676,0.0,1.0
+F1-score,1.0,0.3218521108616438,0.9266898495468091,0.0,0.8095043015157724
+F1-score average,0.611609252384845, , , , 
+Average local time(s),0.01028034987697497, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,153199 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 8, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.23258049014896684,0.9838382517493949,0.0,0.7736883320281911
+Recall,1.0,0.9628647214854111,0.9023089545241444,0.0,1.0
+F1-score,1.0,0.3746613340214166,0.9413115385736394,0.0,0.8724061810154525
+F1-score average,0.6376758107221018, , , , 
+Average local time(s),0.02891414778971760, , , , 
+Average consultation time(s),0.1348762946569698, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,153199 , , , , 
+Consultation messages sent,30491 , , , , 
+ , , , , , 
+Simulation run 9, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.24465069186635166,0.9838645894508206,0.0,0.7736883320281911
+Recall,1.0,0.9614058355437666,0.9087089370795582,0.0,1.0
+F1-score,1.0,0.39004573580844765,0.9447945168599189,0.0,0.8724061810154525
+F1-score average,0.6414492867367638, , , , 
+Average local time(s),0.02907465045904520, , , , 
+Average consultation time(s),0.15621831090158392, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,153199 , , , , 
+Consultation messages sent,30491 , , , , 
+ , , , , , 
+Simulation run 10, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.19181619663098026,0.9775773097497623,0.0,0.8048745571024659
+Recall,0.9999896436375687,0.9672771945499218,0.8968436604733843,0.0,1.0
+F1-score,0.9999948217919706,0.3201457862811561,0.9354718356222046,0.0,0.8918897481657744
+F1-score average,0.6295004383722211, , , , 
+Average local time(s),0.01051485650591716, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,350262 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 11, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999896437448219,0.2122161354091879,0.9775196761149101,0.0,0.7789940418456422
+Recall,1.0,0.9639267366540094,0.9084620404369872,0.0,0.9999555338165326
+F1-score,0.9999948218455978,0.34785026841418,0.9417265413943026,0.0,0.8757520883229162
+F1-score average,0.6330647439953994, , , , 
+Average local time(s),0.01792383643000037, , , , 
+Average consultation time(s),0.1168857001649193, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,350262 , , , , 
+Consultation messages sent,28339 , , , , 
+ , , , , , 
+Simulation run 12, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999896437448219,0.2130182187933443,0.9775429744828267,0.0,0.7812749696022234
+Recall,1.0,0.9639490730399821,0.9089422949718906,0.0,1.0
+F1-score,0.9999948218455978,0.3489284977947389,0.9419953275510026,0.0,0.8772087217693179
+F1-score average,0.6336254737921314, , , , 
+Average local time(s),0.01800044240286858, , , , 
+Average consultation time(s),0.13191625237267196, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,350262 , , , , 
+Consultation messages sent,28339 , , , , 
+ , , , , , 
+Simulation run 13, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.29651619016597325,0.9832662807525325,0.0,0.38
+Recall,1.0,0.9153526212349742,0.9336144742211944,0.0,1.0
+F1-score,1.0,0.4479311116081413,0.9577973270818164,0.0,0.5507246376811594
+F1-score average,0.5912906152742234, , , , 
+Average local time(s),0.01138513168497635, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,108292 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 14, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.34186158172714176,0.9831488754016423,0.0,0.3836893203883495
+Recall,1.0,0.9111933817816171,0.9459992387485245,0.0,1.0
+F1-score,1.0,0.4971881039965085,0.9642163614960515,0.0,0.5545888296379455
+F1-score average,0.6031986590261011, , , , 
+Average local time(s),0.03525482519863726, , , , 
+Average consultation time(s),0.1874087551690297, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,108292 , , , , 
+Consultation messages sent,43659 , , , , 
+ , , , , , 
+Simulation run 15, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.479144127899988,0.9835321553252354,0.0,0.3839875631558492
+Recall,1.0,0.9109191462132639,0.9689686966247978,0.0,1.0
+F1-score,1.0,0.627973658505845,0.9761961124700808,0.0,0.5549003089019938
+F1-score average,0.6318140159755838, , , , 
+Average local time(s),0.03519608717974126, , , , 
+Average consultation time(s),0.24761949069020664, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,108292 , , , , 
+Consultation messages sent,43659 , , , , 
+ , , , , , 
+Simulation run 16, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.99997404080785,0.5815027964659155,0.9838932944462566,0.0,0.0
+Recall,1.0,0.9514588859416445,0.978371438851274,0.0,0.0
+F1-score,0.9999870202354529,0.7218393117673693,0.9811245973379547,0.0,0.0
+F1-score average,0.5405901858681553, , , , 
+Average local time(s),0.01296681092699768, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,76756 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 17, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.99997404080785,0.6008459857695109,0.9836801199536493,0.0,0.0
+Recall,1.0,0.9482316534040672,0.9799223715914914,0.0,0.0
+F1-score,0.9999870202354529,0.7355876401797043,0.9817976501688741,0.0,0.0
+F1-score average,0.5434744621168063, , , , 
+Average local time(s),0.01949592119582156, , , , 
+Average consultation time(s),0.13201598918346494, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,76756 , , , , 
+Consultation messages sent,6256 , , , , 
+ , , , , , 
+Simulation run 18, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.99997404080785,0.6131451635988893,0.9836511702924501,0.0,0.0
+Recall,1.0,0.9469053934571176,0.9807823351759177,0.0,0.0
+F1-score,0.9999870202354529,0.7443226243636301,0.9822146579279961,0.0,0.0
+F1-score average,0.5453048605054158, , , , 
+Average local time(s),0.01933875602356931, , , , 
+Average consultation time(s),0.14563795249632863, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,76756 , , , , 
+Consultation messages sent,6256 , , , , 
+ , , , , , 
+Simulation run 19, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999789743697567,0.6648954334967968,0.9706239235320775,0.0,0.0
+Recall,1.0,0.9374458332530863,0.9711935370493419,0.0,0.0
+F1-score,0.9999894870743579,0.7779908894749461,0.9709086467453802,0.0,0.0
+F1-score average,0.5497778046589369, , , , 
+Average local time(s),0.01239404026101591, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,191234 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 20, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999789743697567,0.7821006012801448,0.9702238270455136,0.0,0.0
+Recall,1.0,0.9318991583691235,0.9781665046140111,0.0,0.0
+F1-score,0.9999894870743579,0.8504539023297097,0.9741789765359817,0.0,0.0
+F1-score average,0.5649244731880099, , , , 
+Average local time(s),0.02267848227725682, , , , 
+Average consultation time(s),0.15100586334997237, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,191234 , , , , 
+Consultation messages sent,28097 , , , , 
+ , , , , , 
+Simulation run 21, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999789743697567,0.821253656213863,0.9703185735746604,0.0,0.0
+Recall,1.0,0.930088785316719,0.9801476945337373,0.0,0.0
+F1-score,0.9999894870743579,0.8722895048181564,0.9752083677661559,0.0,0.0
+F1-score average,0.5694974719317341, , , , 
+Average local time(s),0.02246912009309587, , , , 
+Average consultation time(s),0.17421387636683167, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,191234 , , , , 
+Consultation messages sent,28097 , , , , 
+ , , , , , 
+Simulation run 22, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999737890543091,0.5765429325546133,0.985108826500256,0.0,0.3508522727272727
+Recall,1.0,0.938479820832762,0.9782878437483253,0.0,1.0
+F1-score,0.9999868943553988,0.7142782599620823,0.9816864868293416,0.0,0.519453207150368
+F1-score average,0.6430809696594382, , , , 
+Average local time(s),0.01275120077003419, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,76582 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 23, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999737890543091,0.7678334910122989,0.984763153939692,0.0,0.3522281639928699
+Recall,1.0,0.9273732803144568,0.9903936659480123,0.0,1.0
+F1-score,0.9999868943553988,0.8400960582974496,0.9875703845898254,0.0,0.5209596625362509
+F1-score average,0.669722599955785, , , , 
+Average local time(s),0.02340435794868040, , , , 
+Average consultation time(s),0.17431849472723393, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,76582 , , , , 
+Consultation messages sent,15090 , , , , 
+ , , , , , 
+Simulation run 24, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999737890543091,0.784187869936198,0.9849205265457723,0.0,0.3526052819414704
+Recall,1.0,0.932538050185109,0.9911068239186862,0.0,1.0
+F1-score,0.9999868943553988,0.8519531494665638,0.9880039915921781,0.0,0.5213720316622691
+F1-score average,0.672263213415282, , , , 
+Average local time(s),0.02304780522405865, , , , 
+Average consultation time(s),0.20697769298705146, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,76582 , , , , 
+Consultation messages sent,15090 , , , , 
+ , , , , , 
+Simulation run 25, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9994340690435767,0.42726327575175943,0.9828924126241845,0.0,0.1701288765962455
+Recall,1.0,0.9350660715848429,0.9489558021125476,0.0,1.0
+F1-score,0.9997169544296632,0.5865239467544943,0.9656260266174477,0.0,0.29078656205994774
+F1-score average,0.5685306979723106, , , , 
+Average local time(s),0.01188307035534849, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,105883 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 26, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9996140684899787,0.4978659537545143,0.9823337020644317,0.0,0.19174902168866487
+Recall,1.0,0.9289402292815262,0.9596701054302234,0.0,1.0
+F1-score,0.99980699700202,0.6482838646634909,0.9708696592557318,0.0,0.32179430097951917
+F1-score average,0.5881509643801524, , , , 
+Average local time(s),0.02869033111675804, , , , 
+Average consultation time(s),0.15312072131383783, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,105883 , , , , 
+Consultation messages sent,22175 , , , , 
+ , , , , , 
+Simulation run 27, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9996140684899787,0.5670067392983671,0.9824958924813925,0.0,0.19196547144754317
+Recall,1.0,0.9313905662028529,0.966024753182869,0.0,1.0
+F1-score,0.99980699700202,0.7048927891381737,0.9741907063180858,0.0,0.3220990474068297
+F1-score average,0.6001979079730219, , , , 
+Average local time(s),0.02841550306588697, , , , 
+Average consultation time(s),0.1787600277402893, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,105883 , , , , 
+Consultation messages sent,22175 , , , , 
+ , , , , , 
+Simulation run 28, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999227898597349,0.563153118112278,0.9798939744975039,0.0,0.0
+Recall,1.0,0.9502931653102301,0.9766700512117822,0.0,0.0
+F1-score,0.9999613934394584,0.7072078672723424,0.9782793567490377,0.0,0.0
+F1-score average,0.5370897234921677, , , , 
+Average local time(s),0.01328485558534588, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,80533 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 29, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999485252483656,0.5840960321555634,0.979637607141271,0.0,0.0
+Recall,1.0,0.9410606458388029,0.9785270328218727,0.0,0.0
+F1-score,0.9999742619617533,0.7208043569333892,0.9790820050501065,0.0,0.0
+F1-score average,0.5399721247890498, , , , 
+Average local time(s),0.02031302319711752, , , , 
+Average consultation time(s),0.13343317589570314, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,80533 , , , , 
+Consultation messages sent,6869 , , , , 
+ , , , , , 
+Simulation run 30, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999485252483656,0.585789031366064,0.9797469853654204,0.0,0.0
+Recall,1.0,0.9454800035004813,0.9785566065170567,0.0,0.0
+F1-score,0.9999742619617533,0.7233892971326226,0.9791514341480495,0.0,0.0
+F1-score average,0.5405029986484851, , , , 
+Average local time(s),0.02015493282939847, , , , 
+Average consultation time(s),0.14404288742597454, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,80533 , , , , 
+Consultation messages sent,6869 , , , , 
+ , , , , , 
+Simulation run 31, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.24125650524830203,0.9827285131219496,0.0,0.0
+Recall,1.0,0.9673297966401415,0.9050292196818543,0.0,0.0
+F1-score,1.0,0.38619435913727984,0.9422798317121795,0.0,0.0
+F1-score average,0.4656948381698919, , , , 
+Average local time(s),0.01075891183010454, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,130652 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 32, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.2662616285466303,0.9826525515077689,0.0,0.0
+Recall,1.0,0.9629089301503094,0.9168997154351879,0.0,0.0
+F1-score,1.0,0.41716863143177274,0.9486381191280917,0.0,0.0
+F1-score average,0.4731613501119729, , , , 
+Average local time(s),0.02012780384547831, , , , 
+Average consultation time(s),0.11802650368760892, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,130652 , , , , 
+Consultation messages sent,12896 , , , , 
+ , , , , , 
+Simulation run 33, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.2700438672581724,0.9826551481679227,0.0,0.0
+Recall,1.0,0.963395225464191,0.918043153545067,0.0,0.0
+F1-score,1.0,0.42184324125515404,0.9492509466214036,0.0,0.0
+F1-score average,0.4742188375753115, , , , 
+Average local time(s),0.01998012149668836, , , , 
+Average consultation time(s),0.12945322137760465, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,130652 , , , , 
+Consultation messages sent,12896 , , , , 
+ , , , , , 
+Simulation run 34, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999689318779644,0.23852500989223285,0.9647464725636119,0.0,0.0
+Recall,1.0,0.9155907974089792,0.9265093833064858,0.0,0.0
+F1-score,0.9999844656976714,0.378456481797786,0.9452413924511482,0.0,0.0
+F1-score average,0.46473646798932117, , , , 
+Average local time(s),0.01149169180056112, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,272991 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 35, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999689315562184,0.2672077517651918,0.9647739486669971,0.0,0.0
+Recall,0.9999896436375687,0.9103864194773286,0.9370016108537524,0.0,0.0
+F1-score,0.9999792874896437,0.4131513458994541,0.9506849948566168,0.0,0.0
+F1-score average,0.47276312564914297, , , , 
+Average local time(s),0.03768504468279315, , , , 
+Average consultation time(s),0.1829225367339803, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,272990 , , , , 
+Consultation messages sent,104596 , , , , 
+ , , , , , 
+Simulation run 36, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999275099673794,0.30433059383950406,0.9650798881786333,0.0,0.0
+Recall,0.9999896436375687,0.9090015635470181,0.9473693279660442,0.0,0.0
+F1-score,0.9999585758372858,0.45599547321183465,0.9561426022495446,0.0,0.0
+F1-score average,0.48241933025973305, , , , 
+Average local time(s),0.03738557330610345, , , , 
+Average consultation time(s),0.2377954632563837, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,272989 , , , , 
+Consultation messages sent,104595 , , , , 
+ , , , , , 
+Simulation run 37, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999741314639005,0.3351383017463861,0.9810501567398119,0.0,0.21517950245791748
+Recall,1.0,0.9396697149960046,0.9308117856688992,0.0,1.0
+F1-score,0.9999870655646527,0.49406547236972626,0.9552709094415592,0.0,0.3541526202880784
+F1-score average,0.5606952135328033, , , , 
+Average local time(s),0.01122287994840310, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,115242 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 38, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999741314639005,0.38561180118525584,0.980831750052776,0.0,0.21669666966696668
+Recall,1.0,0.933010743141259,0.9422072847914903,0.0,1.0
+F1-score,0.9999870655646527,0.5456905840657414,0.9611316289576536,0.0,0.35620491954873307
+F1-score average,0.5726028396273561, , , , 
+Average local time(s),0.03157324821573743, , , , 
+Average consultation time(s),0.1522965395519949, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,115242 , , , , 
+Consultation messages sent,28188 , , , , 
+ , , , , , 
+Simulation run 39, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999741314639005,0.3744461120640366,0.9807342179525329,0.0,0.21663167366526695
+Recall,1.0,0.9303471543993608,0.9401658559535365,0.0,1.0
+F1-score,0.9999870655646527,0.5339771192702627,0.9600216461122935,0.0,0.3561171032357473
+F1-score average,0.5700205868365913, , , , 
+Average local time(s),0.03134830780146734, , , , 
+Average consultation time(s),0.18166102649337673, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,115242 , , , , 
+Consultation messages sent,28188 , , , , 
+ , , , , , 
+Simulation run 40, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.2996941896024465,0.97994902994775,0.0,0.46364949446316805
+Recall,1.0,0.9179614667495338,0.9315661679812026,0.0,1.0
+F1-score,1.0,0.4518645586355342,0.9551452833170229,0.0,0.6335526315789475
+F1-score average,0.6081124947063008, , , , 
+Average local time(s),0.01127589320044494, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,113884 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 41, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.3273150287635651,0.9797870722861712,0.0,0.5405051449953228
+Recall,1.0,0.9118352126431679,0.9408566971033342,0.0,1.0
+F1-score,1.0,0.48171296567736493,0.9599273362271942,0.0,0.7017245567160554
+F1-score average,0.628672971724123, , , , 
+Average local time(s),0.02439368822560710, , , , 
+Average consultation time(s),0.12486498998532236, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,113884 , , , , 
+Consultation messages sent,15470 , , , , 
+ , , , , , 
+Simulation run 42, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.34517766497461927,0.9798401506838372,0.0,0.5405051449953228
+Recall,1.0,0.9116576400603746,0.9452248140407042,0.0,1.0
+F1-score,1.0,0.5007559131919044,0.9622212664934886,0.0,0.7017245567160554
+F1-score average,0.6329403472802897, , , , 
+Average local time(s),0.02427980572855567, , , , 
+Average consultation time(s),0.1414569181400341, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,113884 , , , , 
+Consultation messages sent,15470 , , , , 
+ , , , , , 
+Simulation run 43, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.166287979270229,0.9644248937534448,0.0,0.0
+Recall,0.9999896436375687,0.9661157024793389,0.8812109306821504,0.0,0.0
+F1-score,0.9999948217919706,0.2837387947349604,0.9209419831860917,0.0,0.0
+F1-score average,0.44093511994260454, , , , 
+Average local time(s),0.01052775516929245, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,356915 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 44, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9987380920365333,0.20886854763792356,0.9649097181198092,0.0,0.0
+Recall,0.9999792872751375,0.9592137592137592,0.9106331911468634,0.0,0.0
+F1-score,0.9993583042672767,0.34304018404540426,0.9369860976666443,0.0,0.0
+F1-score average,0.4558769171958651, , , , 
+Average local time(s),0.02998754099933197, , , , 
+Average consultation time(s),0.14023613173707833, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,356913 , , , , 
+Consultation messages sent,74013 , , , , 
+ , , , , , 
+Simulation run 45, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9990998075450613,0.22183189543834272,0.9650161611873019,0.0,0.0
+Recall,1.0,0.9591244136698682,0.917230576650069,0.0,0.0
+F1-score,0.9995497010946922,0.3603255852983134,0.9405167900776487,0.0,0.0
+F1-score average,0.46007841529413085, , , , 
+Average local time(s),0.02992565699742371, , , , 
+Average consultation time(s),0.15940093272548406, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,356914 , , , , 
+Consultation messages sent,74012 , , , , 
+ , , , , , 
+Simulation run 46, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9995341807792638,0.4099287174021453,0.9668656977771978,0.0,0.0
+Recall,1.0,0.9364083091355818,0.9637168810580719,0.0,0.0
+F1-score,0.9997670361301078,0.570229666959106,0.9652887215278072,0.0,0.0
+F1-score average,0.5070570849234042, , , , 
+Average local time(s),0.01279946520011168, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,207546 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 47, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9996169534339607,0.48552590193725753,0.9665745354861387,0.0,0.0
+Recall,0.9999792872751375,0.9309582309582309,0.9736799392566949,0.0,0.0
+F1-score,0.9997980875264687,0.6382059978715747,0.9701142270257638,0.0,0.0
+F1-score average,0.5216236624847614, , , , 
+Average local time(s),0.02674672122280557, , , , 
+Average consultation time(s),0.1676054527258302, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,207544 , , , , 
+Consultation messages sent,43127 , , , , 
+ , , , , , 
+Simulation run 48, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9996169573994513,0.5428951799209053,0.9667544643298642,0.0,0.0
+Recall,0.9999896436375687,0.92908197453652,0.97806504113847,0.0,0.0
+F1-score,0.9998032657879204,0.6853287419575407,0.9723768630116548,0.0,0.0
+F1-score average,0.5315017741514232, , , , 
+Average local time(s),0.02624313487719361, , , , 
+Average consultation time(s),0.19111344604059655, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,207545 , , , , 
+Consultation messages sent,43127 , , , , 
+ , , , , , 
+Simulation run 49, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.2640303102060147,0.9828714016260546,0.0,0.0
+Recall,1.0,0.9682800859271448,0.917953854969227,0.0,0.0
+F1-score,1.0,0.4149202867327354,0.949304086665705,0.0,0.0
+F1-score average,0.47284487467968805, , , , 
+Average local time(s),0.01103758130640841, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,119610 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 50, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.2964812106210621,0.9827936383499198,0.0,0.0
+Recall,1.0,0.9635266694090223,0.9302149504843016,0.0,0.0
+F1-score,1.0,0.45343772517556963,0.955781736652915,0.0,0.0
+F1-score average,0.4818438923656969, , , , 
+Average local time(s),0.02224680805400842, , , , 
+Average consultation time(s),0.12417991897588011, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,119610 , , , , 
+Consultation messages sent,13724 , , , , 
+ , , , , , 
+Simulation run 51, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.3016352597514176,0.9827991705345589,0.0,0.0
+Recall,1.0,0.9627953745600805,0.9319325756545183,0.0,0.0
+F1-score,1.0,0.4593577931636047,0.9566902143554386,0.0,0.0
+F1-score average,0.48320960150380865, , , , 
+Average local time(s),0.02213600945572240, , , , 
+Average consultation time(s),0.1410630242673762, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,119610 , , , , 
+Consultation messages sent,13724 , , , , 
+ , , , , , 
+Simulation run 52, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.589147914305758,0.9780797634229939,0.0,0.0
+Recall,1.0,0.9693243363224718,0.9756718463980273,0.0,0.0
+F1-score,1.0,0.7328656776532188,0.9768743210820725,0.0,0.0
+F1-score average,0.5419479997470582, , , , 
+Average local time(s),0.01270618425773808, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,79185 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 53, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.7183581892569618,0.977991116937049,0.0,0.0
+Recall,1.0,0.9665275681434786,0.9844499904012286,0.0,0.0
+F1-score,1.0,0.824166256577204,0.981209924803317,0.0,0.0
+F1-score average,0.5610752362761042, , , , 
+Average local time(s),0.02061397127532327, , , , 
+Average consultation time(s),0.15747332546820397, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,79185 , , , , 
+Consultation messages sent,9129 , , , , 
+ , , , , , 
+Simulation run 54, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.7228150659884978,0.9779414627727778,0.0,0.0
+Recall,1.0,0.9652401669182278,0.9847014511719965,0.0,0.0
+F1-score,1.0,0.8266200315547361,0.9813098151594948,0.0,0.0
+F1-score average,0.5615859693428462, , , , 
+Average local time(s),0.02029755559089563, , , , 
+Average consultation time(s),0.18277092311139148, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,79185 , , , , 
+Consultation messages sent,9129 , , , , 
+ , , , , , 
+Simulation run 55, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999737890543091,0.6344256304056524,0.9838890027383469,0.0,0.0
+Recall,1.0,0.9521458933223639,0.9829858921139019,0.0,0.0
+F1-score,0.9999868943553988,0.7614730878186969,0.9834372400899074,0.0,0.0
+F1-score average,0.5489794444528007, , , , 
+Average local time(s),0.01320500561442549, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,72211 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 56, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999737890543091,0.8115119737048051,0.9838717803816903,0.0,0.0
+Recall,1.0,0.9478952420128891,0.9928162044880858,0.0,0.0
+F1-score,0.9999868943553988,0.8744176241172129,0.9883237558767648,0.0,0.0
+F1-score average,0.5725456548698753, , , , 
+Average local time(s),0.02088532523344809, , , , 
+Average consultation time(s),0.16259432618608946, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,72211 , , , , 
+Consultation messages sent,9205 , , , , 
+ , , , , , 
+Simulation run 57, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999737890543091,0.8018492011296375,0.983851742265415,0.0,0.0
+Recall,1.0,0.9473467708761827,0.9924012262469615,0.0,0.0
+F1-score,0.9999868943553988,0.8685467650016763,0.9881079912602218,0.0,0.0
+F1-score average,0.5713283301234593, , , , 
+Average local time(s),0.02061403540888654, , , , 
+Average consultation time(s),0.19136733757549496, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,72211 , , , , 
+Consultation messages sent,9205 , , , , 
+ , , , , , 
+Simulation run 58, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.2542355288500352,0.9826683531122546,0.0,0.8862660944206009
+Recall,1.0,0.9645576266736676,0.9209642996209638,0.0,1.0
+F1-score,1.0,0.4024059656264547,0.9508162935578135,0.0,0.9397042093287827
+F1-score average,0.6585852937026102, , , , 
+Average local time(s),0.01121088262143662, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,128821 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 59, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999742619617533,0.34073671122163507,0.982600889302069,0.0,0.9277920410783055
+Recall,1.0,0.9592631486829439,0.948158544579881,0.0,1.0
+F1-score,0.9999871308152629,0.5028557010803496,0.9650725126644751,0.0,0.9625436990178126
+F1-score average,0.6860918087155801, , , , 
+Average local time(s),0.02874992386869768, , , , 
+Average consultation time(s),0.14243647631099784, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,128821 , , , , 
+Consultation messages sent,26032 , , , , 
+ , , , , , 
+Simulation run 60, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999742619617533,0.34564340205535593,0.9825925080032613,0.0,0.861698956780924
+Recall,1.0,0.9595256847816575,0.948945944214153,0.0,1.0
+F1-score,0.9999871308152629,0.508215717629609,0.9654761718199056,0.0,0.9257124559718221
+F1-score average,0.6798782952473199, , , , 
+Average local time(s),0.02865986921500828, , , , 
+Average consultation time(s),0.16373201245791208, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,128821 , , , , 
+Consultation messages sent,26032 , , , , 
+ , , , , , 
+Simulation run 61, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.99997404080785,0.2634549717139799,0.9830445018093246,0.0,0.3360544217687075
+Recall,1.0,0.9141025641025641,0.9196635920583521,0.0,1.0
+F1-score,0.9999870202354529,0.40902437094476973,0.9502984095153062,0.0,0.5030549898167006
+F1-score average,0.5724729581024459, , , , 
+Average local time(s),0.01108266144745935, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,119946 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 62, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.99997404080785,0.5243709083469722,0.9835855107281002,0.0,0.350354609929078
+Recall,1.0,0.906498673740053,0.9731189829806256,0.0,1.0
+F1-score,0.9999870202354529,0.6644093059425831,0.9783242538172332,0.0,0.5189075630252101
+F1-score average,0.6323256286040959, , , , 
+Average local time(s),0.03865799916539484, , , , 
+Average consultation time(s),0.17935920611537934, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,119946 , , , , 
+Consultation messages sent,46933 , , , , 
+ , , , , , 
+Simulation run 63, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.99997404080785,0.31802821268020465,0.9830059425670805,0.0,0.3504788932245477
+Recall,1.0,0.9069849690539346,0.9385105594260731,0.0,1.0
+F1-score,0.9999870202354529,0.47092849764719386,0.9602430748014176,0.0,0.5190438665615971
+F1-score average,0.5900404918491323, , , , 
+Average local time(s),0.03838480249856085, , , , 
+Average consultation time(s),0.22142436434107926, , , , 
+Total number of CAN-frames,806390 , , , , 
+Total number of security events,119946 , , , , 
+Consultation messages sent,46933 , , , , 
+ , , , , , 
+Simulation run 64, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9956984261906602,0.2264748721547114,0.981452569153246,0.0,0.031073537478622827
+Recall,1.0,0.9456627896652757,0.7844251147120774,0.0,1.0
+F1-score,0.9978445772402845,0.36543294591928643,0.8719471922396337,0.0,0.06027414408211804
+F1-score average,0.4590997718962645, , , , 
+Average local time(s),0.00907380395375699, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,225855 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 65, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9964427488786926,0.2445175059122109,0.9810154702370811,0.0,0.03110967533516395
+Recall,1.0,0.9409571162212554,0.7940374054656215,0.0,1.0
+F1-score,0.998218205293738,0.38816602723168914,0.8776786194611977,0.0,0.06034212669966791
+F1-score average,0.46488099573725855, , , , 
+Average local time(s),0.01296815704643392, , , , 
+Average consultation time(s),0.10321753614773922, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,225855 , , , , 
+Consultation messages sent,9420 , , , , 
+ , , , , , 
+Simulation run 66, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9964427488786926,0.24767483925174752,0.9810789989728266,0.0,0.031114366027291035
+Recall,1.0,0.9422001243008079,0.7954231435841002,0.0,1.0
+F1-score,0.998218205293738,0.39224165811918427,0.8785499581150112,0.0,0.06035095049091289
+F1-score average,0.4658721544037692, , , , 
+Average local time(s),0.01300273314581389, , , , 
+Average consultation time(s),0.11433701381055666, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,225855 , , , , 
+Consultation messages sent,9420 , , , , 
+ , , , , , 
+Simulation run 67, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9737301211137218,0.22435519587070463,0.9695755610423176,0.0,0.03223851600340431
+Recall,0.9999896436375687,0.9436899709626982,0.8023913785417383,0.0,0.32171283738716705
+F1-score,0.9866851963499249,0.3625232213417538,0.8780965983572404,0.0,0.05860434976307156
+F1-score average,0.4571818731623981, , , , 
+Average local time(s),0.00926444469179732, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,511897 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 68, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9810314347834922,0.2992745892895242,0.9700768355242999,0.0,0.03318196413008578
+Recall,1.0,0.9399374581192763,0.8323828295663368,0.0,0.32166837120369957
+F1-score,0.9904249044798319,0.4539971949509116,0.8959704529198114,0.0,0.060158254296275665
+F1-score average,0.4801101613293661, , , , 
+Average local time(s),0.02457990077196037, , , , 
+Average consultation time(s),0.12626114170728656, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,511896 , , , , 
+Consultation messages sent,80120 , , , , 
+ , , , , , 
+Simulation run 69, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9810414020828042,0.3198632692058803,0.9701111888755752,0.0,0.033213669249697014
+Recall,1.0,0.9384632566450748,0.8375005419539022,0.0,0.32171283738716705
+F1-score,0.9904299839986871,0.4771097471653333,0.8989415509778892,0.0,0.06021113427457442
+F1-score average,0.4853384832832968, , , , 
+Average local time(s),0.02445319888792081, , , , 
+Average consultation time(s),0.1407474543045195, , , , 
+Total number of CAN-frames,2000733 , , , , 
+Total number of security events,511896 , , , , 
+Consultation messages sent,80119 , , , , 
+ , , , , , 
+Simulation run 70, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9479796993948858,0.199742447122912,0.9826961587045401,0.0,0.027592460033404917
+Recall,1.0,0.9433797147107728,0.7697749441796503,0.0,1.0
+F1-score,0.9732952552733103,0.3296812520547736,0.8633008321419762,0.0,0.05370311890476102
+F1-score average,0.44399609167496423, , , , 
+Average local time(s),0.00900703845882573, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,253698 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 71, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9630896606430183,0.2416583202979935,0.9827735144498632,0.0,0.02784627239452899
+Recall,1.0,0.9396166972958782,0.7948743857297063,0.0,1.0
+F1-score,0.9811978331418182,0.38444255471512334,0.8788933888773455,0.0,0.0541837298872656
+F1-score average,0.4597435013243105, , , , 
+Average local time(s),0.02127223472596935, , , , 
+Average consultation time(s),0.1206767295378248, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,253698 , , , , 
+Consultation messages sent,31928 , , , , 
+ , , , , , 
+Simulation run 72, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9630896606430183,0.2664441024622716,0.9828515374639293,0.0,0.027848418294609486
+Recall,1.0,0.9393979172136169,0.8049811960588122,0.0,1.0
+F1-score,0.9811978331418182,0.4151406748525572,0.885068263200465,0.0,0.054187792283253516
+F1-score average,0.4671189126956188, , , , 
+Average local time(s),0.02120892985000297, , , , 
+Average consultation time(s),0.13202957308283428, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,253698 , , , , 
+Consultation messages sent,31928 , , , , 
+ , , , , , 
+Simulation run 73, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.36686921008068535,0.9793903770087077,0.0,0.0
+Recall,1.0,0.9669204515620898,0.9497974201879901,0.0,0.0
+F1-score,1.0,0.5319179664933564,0.9643669266325648,0.0,0.0
+F1-score average,0.49925697862518426, , , , 
+Average local time(s),0.01199094708738224, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,102384 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 74, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999485252483656,0.4295462964768274,0.979339902468453,0.0,0.0
+Recall,1.0,0.9639887984597882,0.9601617681126561,0.0,0.0
+F1-score,0.9999742619617533,0.5942840187205806,0.9696560169042268,0.0,0.0
+F1-score average,0.5127828595173121, , , , 
+Average local time(s),0.02270185109935061, , , , 
+Average consultation time(s),0.13490751541744234, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,102384 , , , , 
+Consultation messages sent,12566 , , , , 
+ , , , , , 
+Simulation run 75, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999485252483656,0.42982267912529504,0.9793507507047086,0.0,0.0
+Recall,1.0,0.9641200665091451,0.9602677405203984,0.0,0.0
+F1-score,0.9999742619617533,0.5945734446888029,0.9697153711523588,0.0,0.0
+F1-score average,0.512852615560583, , , , 
+Average local time(s),0.02249040781274375, , , , 
+Average consultation time(s),0.14737918005804718, , , , 
+Total number of CAN-frames,889395 , , , , 
+Total number of security events,102384 , , , , 
+Consultation messages sent,12566 , , , , 
+ , , , , , 
+Simulation run 76, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.5882829183582475,0.9713830485972151,0.0,0.0
+Recall,1.0,0.965602912004314,0.9779465149272303,0.0,0.0
+F1-score,1.0,0.7311318347199032,0.9746537320425982,0.0,0.0
+F1-score average,0.5411571133525003, , , , 
+Average local time(s),0.01281932621653754, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,181614 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 77, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.7805417097714662,0.9712038182893495,0.0,0.0
+Recall,1.0,0.9590547541551914,0.9910836833072082,0.0,0.0
+F1-score,1.0,0.8606389505794108,0.9810430496948965,0.0,0.0
+F1-score average,0.5683364000548614, , , , 
+Average local time(s),0.02091047717288571, , , , 
+Average consultation time(s),0.17159639621317987, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,181614 , , , , 
+Consultation messages sent,26992 , , , , 
+ , , , , , 
+Simulation run 78, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.7934329118761744,0.9711713001870492,0.0,0.0
+Recall,1.0,0.9596132735011459,0.9916827222793754,0.0,0.0
+F1-score,1.0,0.8686465424813242,0.9813198411555004,0.0,0.0
+F1-score average,0.569993276727365, , , , 
+Average local time(s),0.02057189805622596, , , , 
+Average consultation time(s),0.20402609196087984, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,181614 , , , , 
+Consultation messages sent,26992 , , , , 
+ , , , , , 
+Simulation run 79, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999482642661286,0.3434113497915999,0.9771905865378002,0.0,0.0
+Recall,1.0,0.9509899671490721,0.9412447037765082,0.0,0.0
+F1-score,0.9999741314639005,0.5046050926907403,0.9588808846487306,0.0,0.0
+F1-score average,0.4926920217606742, , , , 
+Average local time(s),0.01167097021042733, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,104573 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 80, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999482642661286,0.39959173736352227,0.9772973302636193,0.0,0.0
+Recall,1.0,0.9472165497647164,0.9532228888786742,0.0,0.0
+F1-score,0.9999741314639005,0.5620694651159727,0.9651100001026599,0.0,0.0
+F1-score average,0.5054307193365066, , , , 
+Average local time(s),0.02193113432495054, , , , 
+Average consultation time(s),0.11076986213530864, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,104573 , , , , 
+Consultation messages sent,10407 , , , , 
+ , , , , , 
+Simulation run 81, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9999223984065806,0.4003787949819041,0.9772549302235977,0.0,0.0
+Recall,1.0,0.9478380538044926,0.9532634470675078,0.0,0.0
+F1-score,0.9999611976977301,0.5629572989861971,0.9651101117782201,0.0,0.0
+F1-score average,0.5056057216924295, , , , 
+Average local time(s),0.02191854739071162, , , , 
+Average consultation time(s),0.12338044683035437, , , , 
+Total number of CAN-frames,817042 , , , , 
+Total number of security events,104573 , , , , 
+Consultation messages sent,10407 , , , , 
+ , , , , , 
+Simulation run 82, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9849950294093281,0.3317201935767708,0.9732385765102823,0.0,0.031236673773987207
+Recall,0.9999894869638352,0.9438976946632514,0.8177215482142994,0.0,0.3062108091967752
+F1-score,0.9924356245565712,0.4909149187651501,0.8887279449488077,0.0,0.05669034522789463
+F1-score average,0.4857537666996848, , , , 
+Average local time(s),0.00931420431380791, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,441293 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 83, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9862921371615807,0.3776201599554476,0.9731410100730611,0.0,0.031456572751951656
+Recall,0.9999894869638352,0.9402576892706508,0.8300993352848065,0.0,0.3062108091967752
+F1-score,0.9930935837670508,0.538836371261913,0.8959467967535055,0.0,0.057052253856103706
+F1-score average,0.4969858011277147, , , , 
+Average local time(s),0.01480238286663409, , , , 
+Average consultation time(s),0.10824584629193988, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,441293 , , , , 
+Consultation messages sent,25657 , , , , 
+ , , , , , 
+Simulation run 84, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.9862921371615807,0.37605644663787785,0.973012915924275,0.0,0.031458181018748116
+Recall,0.9999894869638352,0.9392176877299078,0.8297504303588333,0.0,0.3062108091967752
+F1-score,0.9930935837670508,0.5370726254522227,0.8956892621513084,0.0,0.05705489899715792
+F1-score average,0.496582074073548, , , , 
+Average local time(s),0.01475588529714444, , , , 
+Average consultation time(s),0.11903079099581183, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,441294 , , , , 
+Consultation messages sent,25657 , , , , 
+ , , , , , 
+Simulation run 85, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.2531204089676672,0.9844765721905923,0.0,0.9676787463271302
+Recall,1.0,0.9686000274235569,0.9150091583774076,0.0,1.0
+F1-score,1.0,0.4013560349235811,0.9484725947301778,0.0,0.9835739173718269
+F1-score average,0.6666805094051171, , , , 
+Average local time(s),0.01104313598860028, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,122895 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 86, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.3226478381400193,0.984344597317368,0.0,0.9782178217821782
+Recall,1.0,0.9628410804881393,0.9398322773373787,0.0,1.0
+F1-score,1.0,0.48333142136055984,0.961573581688035,0.0,0.988988988988989
+F1-score average,0.6867787984075168, , , , 
+Average local time(s),0.02719627027846706, , , , 
+Average consultation time(s),0.13694631473029373, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,122895 , , , , 
+Consultation messages sent,21753 , , , , 
+ , , , , , 
+Simulation run 87, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,1.0,0.3225732320137272,0.984316242575832,0.0,0.9782178217821782
+Recall,1.0,0.9623383152794918,0.9398309032372425,0.0,1.0
+F1-score,1.0,0.48318435818292393,0.9615593332808475,0.0,0.988988988988989
+F1-score average,0.686746536090552, , , , 
+Average local time(s),0.02701090538457659, , , , 
+Average consultation time(s),0.15197091230177548, , , , 
+Total number of CAN-frames,799292 , , , , 
+Total number of security events,122895 , , , , 
+Consultation messages sent,21753 , , , , 
+ , , , , , 
+Simulation run 88, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.999989487074358,0.6549065916569367,0.9834208234663072,0.0,0.7733815718574397
+Recall,1.0,0.950619186102498,0.980694782588618,0.0,1.0
+F1-score,0.9999947435095484,0.7755300846092811,0.9820559112602866,0.0,0.8722111294383192
+F1-score average,0.725958373763487, , , , 
+Average local time(s),0.01239648328296182, , , , 
+Average consultation time(s),N/A , , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,196471 , , , , 
+Consultation messages sent,0 , , , , 
+ , , , , , 
+Simulation run 89, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.999989487074358,0.9101814197909123,0.9833480193538278,0.0,0.7725490196078432
+Recall,1.0,0.9440132503900006,0.9941738008317278,0.0,1.0
+F1-score,0.9999947435095484,0.9267886855241264,0.9887312776651073,0.0,0.8716814159292036
+F1-score average,0.7574392245255972, , , , 
+Average local time(s),0.02038490765084561, , , , 
+Average consultation time(s),0.16132129927770034, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,196471 , , , , 
+Consultation messages sent,26713 , , , , 
+ , , , , , 
+Simulation run 90, , , , , 
+ ,Flooding,Fuzzing,Normal,Replay,Spoofing
+Precision,0.999989487074358,0.9166323897842426,0.9833557113383231,0.0,0.7725787227498174
+Recall,1.0,0.9442251025557075,0.9944136729683343,0.0,1.0
+F1-score,0.9999947435095484,0.93022417440636,0.9888537789143077,0.0,0.8717003231893803
+F1-score average,0.7581546040039193, , , , 
+Average local time(s),0.02032375087102205, , , , 
+Average consultation time(s),0.18919854690174187, , , , 
+Total number of CAN-frames,1751313 , , , , 
+Total number of security events,196470 , , , , 
+Consultation messages sent,26713 , , , , 
+ , , , , , 
