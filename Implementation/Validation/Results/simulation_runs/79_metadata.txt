@@ -3,4 +3,3 @@ Average consultation time:N/A
 Total number of lines:817042 
 Total number of lines sent to the IDSM:104573 
 Total number of consultation messages:0 
-Total simulation time(minutes):23.093928559621176 
